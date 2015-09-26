@@ -1,0 +1,25 @@
+{
+  "name": "s4-telegram",
+  "version": "0.0.1",
+  "description": "s4 Telegram connector.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjhorner/s4-telegram.git"
+  },
+  "keywords": [
+    "s4"
+  ],
+  "author": "TJ Horner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjhorner/s4-telegram/issues"
+  },
+  "homepage": "https://github.com/tjhorner/s4-telegram#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.12.1"
+  }
+}
